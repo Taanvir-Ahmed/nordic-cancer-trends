@@ -1,5 +1,7 @@
 # Nordic cancer trends: is Finland falling behind?
 
+The idea came from a [Yle MOT report](https://yle.fi/a/74-20251023) saying that cancer survival in Finland is poorer than in the other Nordic countries for several cancers. I wanted to see what the open NORDCAN data show.
+
 A small epidemiology project in R using open registry data from NORDCAN. I compared Finland with Sweden, Norway and Denmark for colorectal, lung, breast and prostate cancer, 1990-2023. The project also has two quasi-experimental analyses: the effect of Danish colorectal cancer screening (difference-in-differences with placebo tests) and missing cancer diagnoses during COVID-19 (interrupted time series).
 
 **Full report: [report/report.md](report/report.md)**

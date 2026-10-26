@@ -2,7 +2,7 @@
 
 ## 1. Background and questions
 
-The Nordic countries have similar health systems and some of the best cancer registries in the world, so they are often compared with each other. Finland has usually done well in these comparisons. In this project I wanted to check if that is still true for four common cancers: colorectal, lung, female breast and prostate cancer.
+This project started from a news story. Yle's investigative programme MOT reported that Finland has no national data on cancer treatment delays, and that earlier studies have found poorer survival in Finland than in the other Nordic countries for several cancers (https://yle.fi/a/74-20251023). I wanted to see what the open registry data show, so I compared Finland with Sweden, Norway and Denmark for four common cancers: colorectal, lung, female breast and prostate cancer. The Nordic countries have similar health systems and good cancer registries, so they are easy to compare.
 
 I had three questions:
 
@@ -112,7 +112,7 @@ In 2020 there were fewer new cancer cases than the 2010-2019 trend predicted. Su
 
 ## 6. Conclusions
 
-Finland is not behind in everything. Lung cancer incidence and mortality in Finnish men fell faster than in the other countries, and breast and prostate cancer survival is now the same in all four countries. But for colorectal cancer in men and for breast cancer, mortality has fallen more slowly in Finland than in the other countries, and Finland has lost the low mortality it had in 1990. The biggest gap is in lung cancer survival, where Finland was equal in the early 1990s and is now 12 percentage points behind for men and 7 points behind for women.
+Finland is not behind in everything. Lung cancer incidence and mortality in Finnish men fell faster than in the other countries, and breast and prostate cancer survival is now the same in all four countries. But for colorectal cancer in men and for breast cancer, mortality has fallen more slowly in Finland than in the other countries, and Finland has lost the low mortality it had in 1990. The biggest gap is in lung cancer survival, where Finland was equal in the early 1990s and is now 12 percentage points behind for men and 7 points behind for women. This partly agrees with the Yle report. Finnish survival is lower for lung cancer and for colorectal cancer in men, but not for breast or prostate cancer, where Finland is now level with the other countries. These data say nothing about treatment delays, which was the main point of the report.
 
 The Danish screening comparison shows that colorectal incidence first rose by about 18% and then fell by about 9% after screening started, and the placebo tests support this. Finland started national colorectal screening in 2022, and the Danish data suggest what Finnish incidence figures may look like over the next few years.
 
